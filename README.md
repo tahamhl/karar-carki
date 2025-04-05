@@ -4,7 +4,9 @@ Modern ve kullanıcı dostu bir karar verme aracı. Seçeneklerinizi ekleyin, ç
 
 ## 📸 Görseller
 
+![chrome_UXos6U2mq4](https://github.com/user-attachments/assets/bd5b13bd-2f75-45bd-a31a-9c3cae906fa6)
 
+![Uploading chrome_rGhaVT5AoD.png…]()
 
 
 ## ✨ Özellikler
