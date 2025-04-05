@@ -4,9 +4,11 @@ Modern ve kullanıcı dostu bir karar verme aracı. Seçeneklerinizi ekleyin, ç
 
 ## 📸 Görseller
 
-https://github.com/user-attachments/assets/bd5b13bd-2f75-45bd-a31a-9c3cae906fa6
+![chrome_UXos6U2mq4](https://github.com/user-attachments/assets/ca9da8cc-a6e0-44d0-ace2-5fd0e696666a)
 
-https://github.com/user-attachments/assets/59b1b415-c83e-4a5b-97b3-3dad12d9dd49
+
+![chrome_rGhaVT5AoD](https://github.com/user-attachments/assets/181cd24b-5841-49ee-9dbc-645fa94cf841)
+
 
 ## ✨ Özellikler
 
