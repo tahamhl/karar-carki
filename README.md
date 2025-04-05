@@ -4,12 +4,9 @@ Modern ve kullanıcı dostu bir karar verme aracı. Seçeneklerinizi ekleyin, ç
 
 ## 📸 Görseller
 
-<div align="center">
-  <img src="[./public/screenshots/screenshot1.png](https://github.com/user-attachments/assets/bd5b13bd-2f75-45bd-a31a-9c3cae906fa6)" alt="Karar Çarkı Ana Ekran" width="800"/>
-  <br/><br/>
-  <img src="[./public/screenshots/screenshot2.png](https://github.com/user-attachments/assets/59b1b415-c83e-4a5b-97b3-3dad12d9dd49)" alt="Karar Çarkı Görünüm" width="400"/>
-</div>
+https://github.com/user-attachments/assets/bd5b13bd-2f75-45bd-a31a-9c3cae906fa6
 
+https://github.com/user-attachments/assets/59b1b415-c83e-4a5b-97b3-3dad12d9dd49
 
 ## ✨ Özellikler
 
