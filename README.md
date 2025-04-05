@@ -6,7 +6,8 @@ Modern ve kullanıcı dostu bir karar verme aracı. Seçeneklerinizi ekleyin, ç
 
 ![chrome_UXos6U2mq4](https://github.com/user-attachments/assets/bd5b13bd-2f75-45bd-a31a-9c3cae906fa6)
 
-![Uploading chrome_rGhaVT5AoD.png…]()
+![chrome_rGhaVT5AoD](https://github.com/user-attachments/assets/59b1b415-c83e-4a5b-97b3-3dad12d9dd49)
+
 
 
 ## ✨ Özellikler
